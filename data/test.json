@@ -1,0 +1,20 @@
+[
+    {
+        "name" : "Cherry",
+        "weight" : 2,
+        "isRed" : true
+    },
+    {
+        "name":"Heirloom",
+        "weight" : 8,
+        "isRed":false
+    },
+    {
+        "name":"Roma",
+        "weight" : 4,
+        "isRed":true
+    },
+    {
+        "name": "<script>alert('gotcha!');</script>"
+    }
+]
